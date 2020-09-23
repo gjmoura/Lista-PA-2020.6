@@ -1,0 +1,6 @@
+int mat[4], *p, x;
+
+p = mat + 1; Pode, porque está sendo atribuido em p o endereço de memória do mat[0] somado 1, ou seja o endereço de memória dele andado a quantidade de uma posição de memória daquele tipo.
+p = mat++; Não pode, pois o ++ tenta atribuir na mat a soma dele mesmo mais 1 para depois atribuir em p, mas a tribuição no mat não pode ocorrer dessa forma.
+p = ++mat; Não pode, pois o ++ tenta atribuir na mat a soma dele mesmo mais 1 para depois atribuir em p, mas a tribuição no mat não pode ocorrer dessa forma.
+x = (*mat)++; Pode, porque o ++ está atribuindo + 1 no conteúdo de memória em mat na posição inicial

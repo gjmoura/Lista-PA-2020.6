@@ -1,0 +1,5 @@
+As expressões :
+
+*(pulo + 2); Referencia o valor do 3º elemento
+
+pulo + 2; Referencia a posição na memória do 3º elemento

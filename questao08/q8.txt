@@ -1,0 +1,4 @@
+1) Cria um vetor chamado vet que, atribui três posiçõies com valores e depois exbibe o conteúdo em representação decimal com sinal de cada posição.
+
+
+2) Cria um vetor chamado vet que, atribui três posiçõies com valores e depois exbibe o conteúdo em representação hexadecimal sem sinal, no caso o endereço de memória, de cada posição.

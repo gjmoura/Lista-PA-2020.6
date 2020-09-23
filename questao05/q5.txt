@@ -1,0 +1,1 @@
+Será mostrado o valor do contador sendo acrescido, os valores do vetor vet em cada posição sendo percorrido, os valores do ponteri f em cada posição do vet sendo percorrido, assim como o endereço de memória  sendo percorrido, mostrado tanto pelo vet como pelo f que percore o vet
