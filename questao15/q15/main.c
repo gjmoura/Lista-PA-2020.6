@@ -35,7 +35,7 @@ int main()
     scanf("%i", &tamanho);
     ponteiroFloat = malloc(tamanho*sizeof(float));
 
-    printf("Digite os numeros e digite f para finalizar\n");
+    printf("Digite os numeros\n");
 
     for(int i=0;i<tamanho;i++) {
         scanf("%f", (ponteiroFloat + i) );
