@@ -1,4 +1,4 @@
-# Lista Programação avançada
+# Lista Programação Avançada
 ### _Integrantes_
 
 * Gustavo Jerônimo Moura de França
